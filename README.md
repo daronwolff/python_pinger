@@ -1,6 +1,6 @@
 # python_pinger
 
-This is a simpple script in python to check if a host is up or down.
+This is a simple and small script in python to check if a host is online or not.
 
 Only create a class instance
 
